@@ -1,0 +1,15 @@
+C:\Users\alivi_98pvl\OneDrive - Minnesota State\4-Itec 2505\2505Module5Challenge\Module5Challenge\bin\Debug\net10.0\Module5Challenge.exe
+C:\Users\alivi_98pvl\OneDrive - Minnesota State\4-Itec 2505\2505Module5Challenge\Module5Challenge\bin\Debug\net10.0\Module5Challenge.deps.json
+C:\Users\alivi_98pvl\OneDrive - Minnesota State\4-Itec 2505\2505Module5Challenge\Module5Challenge\bin\Debug\net10.0\Module5Challenge.runtimeconfig.json
+C:\Users\alivi_98pvl\OneDrive - Minnesota State\4-Itec 2505\2505Module5Challenge\Module5Challenge\bin\Debug\net10.0\Module5Challenge.dll
+C:\Users\alivi_98pvl\OneDrive - Minnesota State\4-Itec 2505\2505Module5Challenge\Module5Challenge\bin\Debug\net10.0\Module5Challenge.pdb
+C:\Users\alivi_98pvl\OneDrive - Minnesota State\4-Itec 2505\2505Module5Challenge\Module5Challenge\obj\Debug\net10.0\Module5Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alivi_98pvl\OneDrive - Minnesota State\4-Itec 2505\2505Module5Challenge\Module5Challenge\obj\Debug\net10.0\Module5Challenge.AssemblyInfoInputs.cache
+C:\Users\alivi_98pvl\OneDrive - Minnesota State\4-Itec 2505\2505Module5Challenge\Module5Challenge\obj\Debug\net10.0\Module5Challenge.AssemblyInfo.cs
+C:\Users\alivi_98pvl\OneDrive - Minnesota State\4-Itec 2505\2505Module5Challenge\Module5Challenge\obj\Debug\net10.0\Module5Challenge.csproj.CoreCompileInputs.cache
+C:\Users\alivi_98pvl\OneDrive - Minnesota State\4-Itec 2505\2505Module5Challenge\Module5Challenge\obj\Debug\net10.0\Module5Challenge.sourcelink.json
+C:\Users\alivi_98pvl\OneDrive - Minnesota State\4-Itec 2505\2505Module5Challenge\Module5Challenge\obj\Debug\net10.0\Module5Challenge.dll
+C:\Users\alivi_98pvl\OneDrive - Minnesota State\4-Itec 2505\2505Module5Challenge\Module5Challenge\obj\Debug\net10.0\refint\Module5Challenge.dll
+C:\Users\alivi_98pvl\OneDrive - Minnesota State\4-Itec 2505\2505Module5Challenge\Module5Challenge\obj\Debug\net10.0\Module5Challenge.pdb
+C:\Users\alivi_98pvl\OneDrive - Minnesota State\4-Itec 2505\2505Module5Challenge\Module5Challenge\obj\Debug\net10.0\Module5Challenge.genruntimeconfig.cache
+C:\Users\alivi_98pvl\OneDrive - Minnesota State\4-Itec 2505\2505Module5Challenge\Module5Challenge\obj\Debug\net10.0\ref\Module5Challenge.dll
